@@ -34,7 +34,7 @@ function imagesSearch({ resultsImagesFirst, resultsImagesSec, resultsImagesT }) 
 export default imagesSearch;
 
 export async function getServerSideProps(context) {
-  const useDummyDataImages = true;
+  const useDummyDataImages = false;
   const startIndex = context.query.start || "0";
   let dataImages
   let dataImagesSec
