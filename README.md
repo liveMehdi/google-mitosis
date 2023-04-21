@@ -2,7 +2,7 @@
 
 ![google](https://user-images.githubusercontent.com/128709167/233684671-303f3152-213c-4663-8541-e6a535c6e74e.png)
 
-Google Mitosis is a twitter clone which uses Google search API.
+Google Mitosis is a google clone which uses Google search API.
 
 https://google-mitosis.vercel.app/
 
